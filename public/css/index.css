@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+input {
+    margin: 10px;
+    padding: 8px;
+}
+
+button {
+    margin: 10px;
+    padding: 6px;
+}
